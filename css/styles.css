@@ -1,0 +1,4 @@
+.thumb { 
+	width: 50px;
+	transition: all .2s ease-in-out; }
+.thumb:hover { transform: scale(5.1); }
